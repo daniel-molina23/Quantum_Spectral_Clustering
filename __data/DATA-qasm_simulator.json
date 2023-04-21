@@ -1,0 +1,101 @@
+{
+  "Benchmark Results - Phase Estimation - Qiskit": {
+    "backend_id": "qasm_simulator",
+    "circuit_metrics": null,
+    "end_time": 1682026725.687516,
+    "group_metrics": {
+      "avg_create_times": [
+        0.006,
+        0.011,
+        0.015,
+        0.014,
+        0.016,
+        0.046
+      ],
+      "avg_depths": [
+        16.0,
+        27.0,
+        41.0,
+        58.0,
+        78.0,
+        101.0
+      ],
+      "avg_elapsed_times": [
+        0.328,
+        1.024,
+        1.849,
+        2.491,
+        2.504,
+        1.237
+      ],
+      "avg_exec_creating_times": [],
+      "avg_exec_running_times": [],
+      "avg_exec_times": [
+        0.01,
+        0.004,
+        0.012,
+        0.017,
+        0.073,
+        0.138
+      ],
+      "avg_exec_validating_times": [],
+      "avg_fidelities": [
+        0.94,
+        0.699,
+        0.58,
+        0.584,
+        0.401,
+        0.244
+      ],
+      "avg_hf_fidelities": [
+        0.955,
+        0.737,
+        0.607,
+        0.597,
+        0.41,
+        0.25
+      ],
+      "avg_tr_depths": [
+        14.0,
+        30.0,
+        43.0,
+        59.0,
+        82.0,
+        109.0
+      ],
+      "avg_tr_n2qs": [
+        4.0,
+        11.333,
+        18.667,
+        27.333,
+        40.667,
+        56.0
+      ],
+      "avg_tr_xis": [
+        0.207,
+        0.295,
+        0.324,
+        0.344,
+        0.364,
+        0.378
+      ],
+      "avg_xis": [
+        0.316,
+        0.353,
+        0.377,
+        0.395,
+        0.408,
+        0.418
+      ],
+      "groups": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "start_time": 1682026719.470266
+  }
+}
